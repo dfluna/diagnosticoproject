@@ -1,0 +1,2 @@
+# diagnosticoproject
+Primer repositorio
